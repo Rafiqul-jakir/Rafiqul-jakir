@@ -9,5 +9,3 @@
 🚀 Interested in scalable systems & clean code practices  
 🤝 Open to collaboration & learning opportunities
 
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiqul-jakir&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
